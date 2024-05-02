@@ -1,10 +1,5 @@
-<div style="display: flex; align-items: center; justify-content: flex-start;">
-    <h1 style="margin-right: 20px;">AI4CO assets</h1>
-    <img src="svg/ai4co_animated.svg" alt="AI4CO Logo" style="width: 10%; height: auto;">
-</div>
+# AI4CO assets
 
-<br>
-</br>
 
 Simple repository containing assets such as logos, their source files, and other swag!
 
@@ -13,7 +8,23 @@ Some examples - less than 10KB each, simple SVG code that can be [easily modifie
 
 
 <div align="center">
-    <img src="svg/ai4co-logo-animated.svg" alt="AI4CO Logo" style="width: 40%; height: auto;">
+    <img src="svg/ai4co_static.svg" alt="AI4CO Logo" style="width: 15%; height: auto;">
 </div>
+
+<div align="center">
+    <img src="svg/ai4co_static_full.svg" alt="AI4CO Logo" style="width: 40%; height: auto;">
+</div>
+
+
+
+<div align="center">
+    <img src="svg/ai4co_animated.svg" alt="AI4CO Logo" style="width: 15%; height: auto;">
+</div>
+
+<div align="center">
+    <img src="svg/ai4co_animated_full.svg" alt="AI4CO Logo" style="width: 40%; height: auto;">
+</div>
+
+
 
 
