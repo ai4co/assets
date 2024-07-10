@@ -4,7 +4,8 @@
 Simple repository containing assets such as logos, their source files, and other swag!
 
 
-Some examples - less than 10KB each, simple SVG code that can be [easily modified](https://www.svgviewer.dev/)!
+Some examples - less than 10KB each, simple SVG code that can be [easily modified](https://www.svgviewer.dev/)! 
+
 
 ## Usage
 
@@ -41,7 +42,7 @@ You may substitute the `ai4co_animated_full.svg` part at the end of `src` for di
 
 <div align="center">
     <a href="https://github.com/ai4co">
-        <img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/ai4co_animated_full.svg" alt="AI4CO Logo" style="width: 40%; height: auto;">
+        <img src="https://raw.githubusercontent.com/ai4co/assets/main/svg/ai4co_static_full.svg" alt="AI4CO Logo" style="width: 40%; height: auto;">
     </a>
 </div>
 
