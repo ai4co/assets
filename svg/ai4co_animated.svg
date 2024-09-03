@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <svg version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="1088 928 818 955" width="818" height="955">
   <g id="Style_1-5" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1" fill="none">
-    <title>Style 1-5</title>
-    <g id="Style_1-5_Logo">
       <title>Style 1-5</title>
+      <style>
+        .rl4co-letters {
+            fill: #424242;
+        }
+        .rl4co-number {
+            fill: #dd3412;
+        }
+      </style>
       <g id="Style_1-5_Logo">
         <title>Logo</title>
         <g id="Hexagon">
@@ -50,6 +56,6 @@
             <animate attributeName="opacity" values="0;0;0;0;0;0;0;0;1;0;1" keyTimes="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1" dur="4s" repeatCount="indefinite"/>
           </line>
         </g>
-    </g>
+      </g>
   </g>
 </svg>
