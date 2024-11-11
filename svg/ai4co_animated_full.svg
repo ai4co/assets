@@ -1,25 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="1088 928 3200 955" width="3200" height="955">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="1088 928 3275 955" width="3275" height="955">
   <defs/>
   <g id="AI4CO" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none" fill-opacity="1">
     <title>AI4CO</title>
-    <rect fill="none" x="1088" y="928" width="3200" height="955"/>
+    <rect fill="none" x="1088" y="928" width="3275" height="955"/>
     <g id="AI4CO_Text">
       <title>Text</title>
-        <style>
-      .rl4co-letters {
-          fill: #424242;
-      }
-      .rl4co-number {
-          fill: #dd3412;
-      }
+      <style type="text/css">
+        @font-face {
+          font-family: 'Noto Sans';
+          font-style: normal;
+          font-weight: 400;
+          src: local('Noto Sans'), local('NotoSans'),
+              url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&amp;display=swap') format('truetype');
+        }
+
+        /* Use Noto Sans if available; otherwise, fallback to sans-serif */
+        .rl4co-letters {
+            font-family: 'Noto Sans', sans-serif;
+            fill: #424242;
+        }
+        .rl4co-number {
+            font-family: 'Noto Sans', sans-serif;
+            fill: #dd3412;
+        }
       </style>
       <g id="Graphic_11">
         <text transform="translate(1634.3725 1013.5)">
-          <tspan class="rl4co-letters" font-family="Noto Sans" font-size="520" x="505.24396" y="556">A I </tspan>
-          <tspan class="rl4co-number" font-family="Noto Sans" font-size="520" y="556">4 </tspan>
-          <tspan class="rl4co-letters" font-family="Noto Sans" font-size="520" y="556"> C O</tspan>
+          <tspan class="rl4co-letters" font-size="520" x="505.24396" y="556">A I </tspan>
+          <tspan class="rl4co-number" font-size="520" y="556">4 </tspan>
+          <tspan class="rl4co-letters" font-size="520" y="556"> C O</tspan>
         </text>
       </g>
     </g>
