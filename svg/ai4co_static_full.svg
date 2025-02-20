@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="1088 928 3350 955" width="3350" height="955">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="1088 928 3100 955" width="3100" height="955">
   <defs/>
   <g id="AI4CO" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none" fill-opacity="1">
     <title>AI4CO</title>
-    <rect fill="none" x="1088" y="928" width="3350" height="955"/>
+    <rect fill="none" x="1088" y="928" width="3100" height="955"/>
     <g id="AI4CO_Text">
       <title>Text</title>
       <style type="text/css">
@@ -24,13 +24,15 @@
             fill: #dd3412;
         }
       </style>
-      <g id="Graphic_11">
-        <text transform="translate(1634.3725 1013.5)">
-          <tspan class="rl4co-letters" font-size="520" x="505.24396" y="556">A I </tspan>
-          <tspan class="rl4co-number" font-size="520" y="556">4 </tspan>
-          <tspan class="rl4co-letters" font-size="520" y="556"> C O</tspan>
-        </text>
-      </g>
+    <g id="Graphic_11">
+      <text transform="translate(1634.3725 1013.5)">
+        <tspan class="rl4co-letters" font-size="520" x="505.24396" y="556">A</tspan>
+        <tspan class="rl4co-letters" font-size="520" x="955.24396" y="556">I</tspan>
+        <tspan class="rl4co-number" font-size="520" x="1255.24396" y="556">4</tspan>
+        <tspan class="rl4co-letters" font-size="520" x="1655.24396" y="556">C</tspan>
+        <tspan class="rl4co-letters" font-size="520" x="2105.24396" y="556">O</tspan>
+      </text>
+    </g>
     </g>
     <g id="Style_1-5" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1" fill="none">
       <title>Style 1-5</title>
